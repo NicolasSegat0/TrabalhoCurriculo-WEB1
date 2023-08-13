@@ -1,0 +1,13 @@
+.foto-perfil{
+    border-radius: 100%; 
+    max-width: 200px; 
+    border: 1 px solid black;
+}
+
+.container{
+    max-width: 960px;
+    width: 95%;
+    padding: 5%;
+    margin: 10px auto;
+    border: 1px solid #111;
+}
